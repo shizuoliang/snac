@@ -11,6 +11,6 @@ public class hello extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-
+        System.out.println("sasas");
     }
 }
