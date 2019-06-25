@@ -8,7 +8,7 @@ public class hello extends Application {
     public static void main(String[] args) {
         launch(args);
     }
-
+//saassa
     @Override
     public void start(Stage primaryStage) {
         System.out.println("sasas");
